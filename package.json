@@ -1,0 +1,15 @@
+{
+  "name": "03-asingment",
+  "version": "1.0.0",
+  "description": "Asingment 3 Node-EdX-Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Estrada",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mongodb": "^3.1.0"
+  }
+}
